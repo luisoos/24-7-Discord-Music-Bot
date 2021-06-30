@@ -1,5 +1,5 @@
 # 24/7 Discord Music Bot
-This is a JavaScript Discord Music Bot, easy to use and to copy, thanks to .
+This is a JavaScript Discord Music Bot, easy to use and to copy, thanks to a short code.
 
 
 ### Requirements
