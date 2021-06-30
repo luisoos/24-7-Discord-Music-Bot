@@ -14,11 +14,11 @@ Go setup your bot at https://discord.com/developers/applications!
     (If you don't understand how to create a bot: search on YouTube!)
 
 ##### Method 1: (fastest)
-    ```bash
+    
     git clone https://github.com/luisoos/24-7-Discord-Music-Bot
     cd 24-7-Discord-Music-Bot
     npm install
-    ```
+    
 
 ##### Method 2: 
     Copy paste all files from the 'src'-folder.
