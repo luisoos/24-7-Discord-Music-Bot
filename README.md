@@ -3,8 +3,9 @@ This is a JavaScript Discord Music Bot, easy to use and to copy, thanks to a sho
 
 
 ### Requirements
- - [ffmpeg](https://ffmpeg.org)
+ - [Discord.js](https://discord.js.org/#/)
  - [NodeJS v12-14](https://nodejs.org)
+ - [ffmpeg](https://ffmpeg.org)
 
 
 ### Setup
@@ -36,4 +37,4 @@ Change the strings in the `config.json` file:
 
 
 ### Start the Bot
-Do `node index.js` to start the bot.
+Type `node index.js` to start the bot.
